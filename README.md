@@ -2,7 +2,7 @@
 
 ### 1. International Debt Analysis  
 Analyzed global debt trends using data from The World Bank. Explored borrowing patterns across countries and visualized insights using Python and Excel.  
-[View Project Repository](https://github.com/honorable99/international-debt-analysis)
+[View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_im-excited-to-present-my-first-live-analysis-activity-7327743691886936064-Ihym?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
 
 ### 2. UK Train Performance Dashboard  
 Built a Power BI dashboard using UK train performance data to analyze punctuality, delays, and overall network efficiency.  
