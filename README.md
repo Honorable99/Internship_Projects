@@ -9,6 +9,7 @@ Explored borrowing patterns across countries and visualized insights using Pytho
 
 ### 2. US International Air Traffic Analysis  
 Performed exploratory data analysis on international flight traffic in and out of the US. 
+
 Derived insights on volume, routes, and peak traffic periods.
 
 [View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_visual-insights-into-us-international-air-activity-7329156656699748352-li88?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
