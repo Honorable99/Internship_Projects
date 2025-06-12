@@ -21,22 +21,22 @@ Analyzed global aviation incidents with focus on crash frequency, fatality rates
 ### 4.  Women’s Clothing E-Commerce Analysis
 Diving into customer behavior and preferences in women’s fashion through an e-commerce lens.
 
-[view Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_powerbi-powerquery-ecommerceanalytics-activity-7331757354889195521-gCjg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
+[View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_powerbi-powerquery-ecommerceanalytics-activity-7331757354889195521-gCjg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
 
 ### 5. Investment Preference Analysis
 
 I dove deep into what drives people to invest and where they prefer to put their money.
 
-[view Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_powerbi-powerquery-investmentanalysis-activity-7331756914491482112-zt90?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
+[View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_powerbi-powerquery-investmentanalysis-activity-7331756914491482112-zt90?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
 
 ### 6. Car Insurance Policies Analysis
 This one dives deep into the world of car insurance
 
-[view Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_powerbi-powerquery-dataanalytics-activity-7331756152109559808-kTkd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
+[View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_powerbi-powerquery-dataanalytics-activity-7331756152109559808-kTkd?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
 
 ### 7. Global Debt Analysis
 
-[view Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_im-excited-to-present-my-first-live-analysis-activity-7327743691886936064-Ihym?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
+[View Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_im-excited-to-present-my-first-live-analysis-activity-7327743691886936064-Ihym?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
 
 ### 8. Amazon Sales Analysis
 
