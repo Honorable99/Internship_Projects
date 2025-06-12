@@ -24,6 +24,7 @@ Diving into customer behavior and preferences in women’s fashion through an e-
 ### 5. Investment Preference Analysis
 
 I dove deep into what drives people to invest and where they prefer to put their money.
+
 [view Project Repository](https://www.linkedin.com/posts/badmus-ibraheem-b7576635b_powerbi-powerquery-investmentanalysis-activity-7331756914491482112-zt90?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFmimQkBYBgh5-xqpPIdw5INl85e3sQ6kAU)
 
 ### 6. Car Insurance Policies Analysis
