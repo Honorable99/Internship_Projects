@@ -1,4 +1,4 @@
-## Featured Projects
+## Internship Projects
 
 ### 1. International Debt Analysis  
 Analyzed global debt trends using data from The World Bank. Explored borrowing patterns across countries and visualized insights using Python and Excel.  
