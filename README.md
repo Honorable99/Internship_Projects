@@ -938,3 +938,102 @@ What Can Be Done?
 
 ✅ Re-evaluate pricing models for popular makes/models with high claim rates
 
+### 8. Retail Sales & Customer Demographics Analysis
+
+In this project, I explored a retail dataset to uncover customer behavior patterns, demographic influences, and product category trends. The goal: translate raw data into actionable insights that inform smarter inventory, marketing, and sales decisions.
+
+
+⚙ DASHBOARD CREATION PROCESS
+
+🔧 Tools Used:
+
+• Power BI – For developing interactive visualizations and KPIs
+
+• Power Query Editor – For data preparation and transformation
+
+🔄 Workflow:
+
+	1.	Data Cleaning & Preparation
+	•	Removed duplicates, handled missing values
+	•	Formatted dates for monthly/quarterly trend analysis
+	•	Split categorical columns (e.g., product category)
+	•	Grouped customer data by age, gender, and purchase history
+
+	2.	Data Modeling & DAX Measures
+	•	Created calculated columns for total sales, product count, and age brackets
+	•	Used DAX for KPIs like Average Age, Total Sales by Quarter, and Gender Split
+
+	3.	Dashboard Design
+	•	KPI cards for average customer age and total purchases
+	•	Column charts for monthly and quarterly sales patterns
+	•	Stacked bar charts for gender-based purchase behavior
+	•	Pie/donut charts for product category share
+	•	Heat maps to show age vs. spending patterns by product
+
+
+📊 ANALYSIS & INSIGHTS
+
+📈 Key Performance Indicator:
+	•	Average Customer Age: 41.39 years – signaling a mature, working-age consumer base
+
+
+
+🔍 What Did I Discover?
+
+1. Gender Influence on Purchasing
+👩‍🦰 Females slightly edge males in total purchases with 50.96%, confirming their strong influence on retail spending.
+
+2. Monthly Sales Trends
+📅 May recorded the highest single-month sales, reaching 21,255 units—suggesting strong mid-year promotions or seasonal triggers.
+
+3. Seasonal Purchase Behavior
+🗓 Quarter 4 (Q4) saw the highest customer activity—likely driven by holidays, Black Friday, and end-of-year discounts.
+
+4. Product Category Distribution
+🛒 Clothing had the highest number of purchases (894 units), while
+💰 Electronics accounted for the highest product price value (₦62K)—signifying big-ticket transactions.
+
+5. Age, Spending, and Product Relationship
+📌 Customers spent the most on Clothing (₦15K), followed by Electronics (₦14K) and Beauty products (₦12K).
+This confirms that while electronics are expensive, clothing drives more frequent purchases.
+
+
+
+🧠 BUSINESS ANALYSIS (McKinsey Framework)
+
+Why Is This Important?
+
+Analyzing customer demographics and preferences helps retailers:
+
+• Predict peak seasons and prepare inventory accordingly
+
+• Understand which gender and age group to target
+
+• Optimize pricing strategies for high-performing product categories
+
+• Boost conversion through personalized marketing
+
+
+
+What Went Wrong / Key Findings
+
+
+• Female customers dominate sales—yet current inventory may not fully reflect that.
+
+• Most purchases happened in May and Q4, but campaigns may not be aligned with these high-demand periods.
+
+• While Electronics top by value, Clothing dominates in volume and consistent spending.
+
+• Failure to align stock with demand across high-performing categories and seasons could result in missed revenue.
+
+
+
+✅ What Should Be Done?
+
+🔹 Prioritize female-targeted inventory – Trendy, high-demand women’s clothing should be increased
+
+🔹 Leverage Q4 seasonality – Stock up on electronics ahead of Q4 and plan promotions accordingly
+
+🔹 Run gender-targeted campaigns – Tailor marketing content to match the leading demographic (female, mid-40s)
+
+🔹 Bundle value deals in May & Q4 – Use historic peak data to trigger seasonal offers that convert
