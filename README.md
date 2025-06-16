@@ -1,8 +1,12 @@
 ## Internship Projects
 
+
 ### 1. Global Debt Analysis  
 
+
 Global Debt Analysis Dashboard – Documentation
+
+
 
 🔎 Overview
 This project explores global debt metrics across three major dimensions: General Government Debt, Household Debt, and Private Sector Debt. Using Power BI, I transformed raw data into a compelling, interactive dashboard that visualizes national debt levels while also uncovering patterns and high-risk zones.
