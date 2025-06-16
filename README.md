@@ -1663,6 +1663,7 @@ In this 6th project of my internship journey, I focused on analyzing customer pr
  3.	Dashboard Design
 
  •	Created bar charts and heat maps to highlight trends in rating, age distribution, and feedback positivity
+ 
 
  •	Enabled interactive filtering by department and age range
 
@@ -1897,3 +1898,156 @@ Understanding investment behavior by age and decision-making factors can help fi
 ✅ Create Personalized Investor Journeys
 
 • Use demographic segmentation to customize onboarding, newsletters, and investment advice tools
+
+
+### 15. Digital Marketing Analysis
+
+📊 Digital Marketing Performance Analysis
+
+
+
+🚀 Just completed a deep-dive project focused on Digital Marketing Analysis — and I built an interactive dashboard that connects cost, performance, and profitability into one compelling story.
+
+
+
+⚙ DASHBOARD & ANALYSIS PROCESS
+
+🔧 Tools Used:
+
+• Power BI – for advanced visual analytics
+
+• Power Query Editor – to clean, merge, and prepare the marketing dataset
+
+
+
+🧩 Process Workflow:
+
+ 1.	Data Preparation & Cleaning
+
+ •	Standardized columns (date format, campaign types, performance metrics)
+
+ •	Removed duplicates and null values across cost and revenue indicators
+
+ •	Engineered key metrics: CAC, AOV, CPL
+
+
+ 2.	Dashboard Development
+
+ •	Built visuals for CAC, CPC, AOV, Gross Profit, and campaign performance
+
+ •	Time-series line charts for order trends
+
+ •	Bar/stacked charts for campaign ROI and channel breakdowns
+
+ •	Drill-through filters for campaign and platform-level insights
+
+
+ 3.	Insights & Trend Discovery
+
+ •	Identified most cost-efficient channels and campaigns
+
+ •	Analyzed daily vs cumulative metrics to flag performance peaks and gaps
+
+ •	Connected campaign types to profitability and lead generation strength
+
+
+
+📈 KEY KPIs & INSIGHTS
+
+
+💰 Performance Metrics:
+
+• Cost Per Click (CPC): ₦673.32 billion
+
+• Cost Per Lead (CPL): ₦17.68 billion
+
+• Customer Acquisition Cost (CAC): ₦2.49 billion
+
+• Average Order Value (AOV): ₦26.11
+
+• Gross Profit: ₦13.54 trillion
+
+
+🔎 Campaign Highlights:
+
+• 📅 Peak Sales Day: February 20th recorded the highest number of orders
+
+• 📹 Best Campaign: YouTube Blogger – generated the highest revenue
+
+• 🌐 Most Leads Generated: The Social category led in lead volume
+
+
+
+🧠 BUSINESS ANALYSIS (Using McKinsey’s Framework)
+
+
+1. Why Is This Important?
+
+Marketing budgets are massive — but without analysis, companies could be spending more to earn less. 
+
+This project helps decision-makers:
+
+ •	Optimize ad spend
+
+ •	Identify high-performing campaigns and channels
+
+ •	Improve cost efficiency and customer targeting
+
+
+
+2. What Was Discovered?
+
+
+📊 Strong Performance Metrics:
+
+ •	Despite high CPC and CPL, gross profit remains robust, signaling strong ROI in specific channels
+
+
+📈 Top Campaign:
+
+ •	YouTube Blogger outperformed all others in revenue generation — showing the power of influencer-led video marketing
+
+
+🌐 Lead Source Insights:
+
+ •	Social platforms generated the most leads — an opportunity to further optimize targeting and creatives for conversion
+
+
+📆 Temporal Insight:
+
+ •	February 20th showed an order surge, suggesting campaign timing, audience intent, or seasonal behavior influenced buying patterns
+
+
+
+3. What Should Be Done?
+
+
+✅ Double Down on High-Performing Campaigns
+
+• Scale YouTube Blogger and similar influencer-driven campaigns
+
+• Consider reallocating budget toward high-ROI channels like YouTube and Social
+
+
+✅ Optimize CPC and CPL
+
+• Evaluate underperforming campaigns with high cost and low conversion
+
+• Improve audience segmentation and ad creatives to reduce lead cost
+
+
+✅ Maximize Q1 Conversions
+
+• Leverage the February spike to build seasonal campaigns or early-year promos
+
+
+✅ Experiment with A/B Testing
+
+• Run controlled tests across platforms to refine messaging and offer structures
+
+• Measure real-time shifts in CAC and AOV
+
+
+✅ Balance Profitability with Reach
+
+• High CPC doesn’t always mean low ROI — identify which audience cohorts drive the highest gross profit per order
