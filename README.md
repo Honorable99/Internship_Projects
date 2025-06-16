@@ -1477,3 +1477,423 @@ This analysis reveals:
 ✅ Integrated Data Monitoring
 
  •	Encourage governments and agencies to adopt real-time mental health dashboards for better responsiveness and prevention
+
+
+ ### 12. Supply Chain Analysis
+
+ 🚀 Supply Chain & Sales Analysis 
+
+
+The aim? Uncover actionable insights to boost product delivery, reduce costs, and enhance customer experience in the supply chain.
+
+
+
+⚙ DASHBOARD & ANALYSIS PROCESS
+
+🛠 Tools Used:
+
+• Excel – for data wrangling and pivot summary
+
+• Power Query Editor – to clean and transform product, carrier, and pricing data
+
+• Power BI – for dashboard development and insight visualization
+
+
+
+🔄 Process Breakdown:
+
+ 1.	Data Cleaning
+
+ •	Removed duplicates, standardized product names and shipping carriers
+
+ •	Handled missing transport cost and defect values
+
+
+ 2.	KPI Formulation
+
+ •	Computed total revenue and average product pricing
+
+ •	Defined product defect rate and transport mode cost metrics
+
+ •	Created dynamic slicers by carrier and product type
+
+
+ 3.	Dashboard Design
+
+ •	Revenue and volume performance by product type
+
+ •	Carrier usage frequency and shipping volume metrics
+
+ •	Average transport cost by mode
+
+ •	Defect rate heatmap per product type
+
+
+
+📊 CORE METRICS & KEY INSIGHTS
+
+
+🔑 Key Performance Indicators (KPIs):
+
+
+• Total Revenue: $4,960
+
+• Average Product Price: $49.46
+
+• Total Products Sold: 46,000 units
+
+
+
+🔍 Deep Dive Insights:
+
+
+🧴 Top Product Type by Sales & Revenue:
+
+• Skincare dominated both in units sold and revenue contribution
+
+
+🚚 Most Used Shipping Carrier:
+
+• Carrier B was the top performer — highest in both frequency and volume
+
+
+⚠ Product Type with Highest Defect Rate:
+
+• Hair Care Products — indicating potential production or packaging issues
+
+
+💸 Most Expensive Transport Mode:
+
+• Road Transport recorded the highest logistics cost, more than air, rail, or sea
+
+
+
+🧠 BUSINESS ANALYSIS (McKinsey Framework)
+
+
+1. Why Is This Important?
+
+This project answers the big operational questions:
+
+• Which products and carriers drive the most sales and revenue?
+
+• Where are we losing value — through defects or high transport cost?
+
+• What strategic shifts are needed in carrier selection, inventory planning, or logistics budgeting?
+
+
+
+2. What Went Wrong? / What Was Discovered?
+
+
+🚩 Problem Areas Identified:
+
+ •	Hair care products had the highest average defect rate, affecting customer satisfaction and returns
+
+ •	Road transport, though widely used, proved to be costly, affecting logistics margins
+
+ •	Carrier B, while highly utilized, could be over-relied on — risk if it underperforms or faces disruption
+
+
+
+3. What Should Be Done?
+
+
+✅ Defect Control on Hair Products
+
+• Implement quality assurance reviews specifically for hair care SKUs — from packaging to storage
+
+
+✅ Cost Review on Road Transport
+
+• Analyze whether rail or sea can be used more in non-urgent deliveries to cut down logistics cost
+
+
+✅ Diversify Carrier Dependence
+
+• While Carrier B is reliable, it’s essential to build backup logistics partnerships to reduce operational risk
+
+
+✅ Double Down on Skincare
+
+• As the best-performing product category, optimize inventory for skincare lines and run targeted campaigns to scale revenue
+
+
+### 13. Women E - Commerce Clothing Analysis
+
+
+👗 Women’s Clothing E-Commerce Analysis
+
+
+
+Each dataset tells a different story—and this one was all about what women love to wear. 
+
+In this 6th project of my internship journey, I focused on analyzing customer preferences, product engagement, and age-based shopping behavior in the women’s fashion space.
+
+
+
+⚙ DASHBOARD & ANALYSIS PROCESS
+
+🛠 Tools Used:
+
+• Power BI – to design dynamic dashboards for trend visualization
+
+• Power Query Editor – for cleaning, filtering, and transforming raw customer and rating data
+
+
+
+🔄 Process Breakdown:
+
+ 1.	Data Cleaning & Preparation
+
+ •	Removed null values in rating and department fields
+
+ •	Converted age and rating fields into usable numeric formats
+
+ •	Standardized department and class names for clarity
+
+
+ 2.	KPI Development
+
+ •	Built measures for average rating, average age, total rating count
+
+ •	Segmented rating by department and class name
+
+
+ 3.	Dashboard Design
+
+ •	Created bar charts and heat maps to highlight trends in rating, age distribution, and feedback positivity
+
+ •	Enabled interactive filtering by department and age range
+
+
+
+📊 CORE METRICS & INSIGHTS
+
+
+🧮 Key Performance Indicators (KPIs):
+
+
+• Total Ratings: 4,194
+
+• Average Rating: 4.194
+
+• Total Age Sum: 43,502
+
+• Average Customer Age: 43.502
+
+
+
+🔍 Deeper Insights:
+
+
+👚 Department with Highest Engagement:
+
+• Tops led the way — over 2,000 customer ratings, showing strong interest and feedback volume
+
+
+👵 Age Distribution Insights:
+
+• Bottoms attracted the highest total age sum, revealing preference from older customer segments
+
+
+💃 Most Loved Product by Feedback:
+
+• Dresses received the highest positive feedback count (650+), reflecting consistent customer satisfaction
+
+
+
+🧠 BUSINESS ANALYSIS (McKinsey Approach)
+
+1. Why Is This Important?
+
+This analysis helps e-commerce fashion businesses answer key questions like:
+
+• Which product categories generate the most customer interest and loyalty?
+
+• How does customer age affect purchasing preferences?
+
+• Where should we invest more in product development and marketing?
+
+
+
+2. What Was Discovered?
+
+
+📌 Customer Engagement Patterns:
+
+ •	Tops received the most ratings, showing popularity and repeat interest
+
+ •	Dresses had the highest satisfaction levels, as seen in positive feedback volume
+
+ •	Bottoms saw interest from older customers, an untapped market for age-specific styles
+
+
+
+3. What Should Be Done?
+
+
+✅ Double Down on Dresses
+
+• Capitalize on customer satisfaction by promoting and upselling dress collections through targeted campaigns
+
+
+✅ Segment Campaigns by Age
+
+• Since Bottoms appeal to older shoppers, develop age-tailored messaging and fit guides for that segment
+
+
+✅ Expand Topwear Range
+
+• With high engagement, introducing new styles and color variants in Tops can sustain momentum and boost conversion
+
+
+✅ Introduce Review Incentives
+
+• Encourage customer feedback across less-engaged departments to balance data and product insights
+
+
+
+### 14. Investment Preference Analysis
+
+
+💼 Investment Preference Analysis
+
+
+
+Another one wrapped up ✅ — this time, I explored where people invest, why they invest, and what drives their decisions.
+
+
+
+⚙ DASHBOARD & ANALYSIS PROCESS
+
+🔧 Tools Used:
+
+• Power BI – for clear, interactive data visualizations
+
+• Power Query Editor – for transforming raw data into clean, structured formats
+
+
+
+🔄 Process Workflow:
+
+ 1.	Data Cleaning & Transformation
+
+ •	Removed null entries in investment type and reason fields
+
+ •	Categorized investment vehicles: Equity, Debentures, Mutual Funds, Fixed Deposits
+
+ •	Segmented age groups: Youth, Young Adults, Established Adults, Seniors
+
+
+ 2.	Dashboard Development
+
+ •	Visualized investment distribution via bar/column charts
+
+ •	Mapped investor age groups to preferred investment types
+
+ •	Highlighted reasons for investment and return expectations using pie charts & KPI cards
+
+
+ 3.	Insight Extraction
+
+ •	Interactively filtered investment behaviors by age group
+
+ •	Measured volume of investments across categories and their motivating factors
+
+
+
+📊 KEY METRICS & INSIGHTS
+
+
+📌 Investment Distribution (by count):
+
+
+• Debentures – 230
+
+• Equity Market – 139
+
+• Mutual Funds – 102
+
+
+👥 Investor Age Group Analysis:
+
+
+• Established Adults dominate the investor base
+
+• Their top choices: Mutual Funds, Fixed Deposits, and Equities
+
+
+💡 Primary Motivation to Invest:
+
+• The leading driver? Returns — it wasn’t even close
+
+
+💰 Why Mutual Funds?
+
+• Investors were especially attracted to 20–30% return brackets, explaining their popularity
+
+
+
+🧠 BUSINESS ANALYSIS (Using McKinsey’s Framework)
+
+
+1. Why Is This Important?
+
+Understanding investment behavior by age and decision-making factors can help financial institutions:
+
+• Build tailored investment products
+
+• Improve marketing campaigns by segment
+
+• Align offers with investor priorities like return expectation, risk appetite, and investment goals
+
+
+
+2. What Was Discovered?
+
+
+🔍 Demographic Patterns:
+
+ •	Established Adults are the core investment demographic
+
+ •	Their preferred vehicles include Mutual Funds and Fixed Deposits
+
+
+💹 Investment Type Preferences:
+
+ •	Debentures saw the highest total count — possibly due to perceived security and fixed returns
+
+ •	Mutual Funds gained traction where expected returns hit 20–30%
+
+
+🎯 Investor Motivation:
+
+ •	Across all investment types, high returns were the primary driver—showing a risk-reward mindset among most groups
+
+
+
+
+3. What Should Be Done?
+
+
+✅ Target Established Adults Strategically
+
+• Offer more return-focused marketing for Mutual Funds
+
+• Introduce hybrid investment plans combining security + moderate return potential
+
+
+✅ Position Debentures for Conservative Segments
+
+• Highlight stability and long-term performance for older or risk-averse investors
+
+
+✅ Educate on Risk & Returns
+
+• Since high returns are a key motivator, provide transparent breakdowns of risk-reward tradeoffs to build long-term investor trust
+
+
+✅ Create Personalized Investor Journeys
+
+• Use demographic segmentation to customize onboarding, newsletters, and investment advice tools
