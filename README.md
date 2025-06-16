@@ -799,6 +799,8 @@ To assess the success of U.S. healthcare policy reforms by analyzing:
  •	The role of tax credits and plan accessibility
 
 
+
+
 ✅ Why Is This Important?
 Health insurance coverage directly impacts public health outcomes, poverty levels, and economic productivity. Identifying which states are lagging — and why — helps policymakers and healthcare providers:
 
@@ -938,6 +940,7 @@ What Can Be Done?
 
 ✅ Re-evaluate pricing models for popular makes/models with high claim rates
 
+
 ### 8. Retail Sales & Customer Demographics Analysis
 
 In this project, I explored a retail dataset to uncover customer behavior patterns, demographic influences, and product category trends. The goal: translate raw data into actionable insights that inform smarter inventory, marketing, and sales decisions.
@@ -951,55 +954,76 @@ In this project, I explored a retail dataset to uncover customer behavior patter
 
 • Power Query Editor – For data preparation and transformation
 
+
 🔄 Workflow:
 
 	1.	Data Cleaning & Preparation
-	•	Removed duplicates, handled missing values
-	•	Formatted dates for monthly/quarterly trend analysis
-	•	Split categorical columns (e.g., product category)
-	•	Grouped customer data by age, gender, and purchase history
+
+ •	Removed duplicates, handled missing values
+
+ •	Formatted dates for monthly/quarterly trend analysis
+
+ •	Split categorical columns (e.g., product category)
+
+ •	Grouped customer data by age, gender, and purchase history
 
 	2.	Data Modeling & DAX Measures
-	•	Created calculated columns for total sales, product count, and age brackets
-	•	Used DAX for KPIs like Average Age, Total Sales by Quarter, and Gender Split
+
+ •	Created calculated columns for total sales, product count, and age brackets
+
+ •	Used DAX for KPIs like Average Age, Total Sales by Quarter, and Gender Split
 
 	3.	Dashboard Design
-	•	KPI cards for average customer age and total purchases
-	•	Column charts for monthly and quarterly sales patterns
-	•	Stacked bar charts for gender-based purchase behavior
-	•	Pie/donut charts for product category share
-	•	Heat maps to show age vs. spending patterns by product
+
+ •	KPI cards for average customer age and total purchases
+
+ •	Column charts for monthly and quarterly sales patterns
+
+ •	Stacked bar charts for gender-based purchase behavior
+
+ •	Pie/donut charts for product category share
+
+ •	Heat maps to show age vs. spending patterns by product
 
 
 📊 ANALYSIS & INSIGHTS
 
+
 📈 Key Performance Indicator:
-	•	Average Customer Age: 41.39 years – signaling a mature, working-age consumer base
+
+ •	Average Customer Age: 41.39 years – signaling a mature, working-age consumer base
 
 
 
 🔍 What Did I Discover?
 
 1. Gender Influence on Purchasing
+
 👩‍🦰 Females slightly edge males in total purchases with 50.96%, confirming their strong influence on retail spending.
 
 2. Monthly Sales Trends
+
 📅 May recorded the highest single-month sales, reaching 21,255 units—suggesting strong mid-year promotions or seasonal triggers.
 
 3. Seasonal Purchase Behavior
+
 🗓 Quarter 4 (Q4) saw the highest customer activity—likely driven by holidays, Black Friday, and end-of-year discounts.
 
 4. Product Category Distribution
+
 🛒 Clothing had the highest number of purchases (894 units), while
+
 💰 Electronics accounted for the highest product price value (₦62K)—signifying big-ticket transactions.
 
 5. Age, Spending, and Product Relationship
+
 📌 Customers spent the most on Clothing (₦15K), followed by Electronics (₦14K) and Beauty products (₦12K).
 This confirms that while electronics are expensive, clothing drives more frequent purchases.
 
 
 
 🧠 BUSINESS ANALYSIS (McKinsey Framework)
+
 
 Why Is This Important?
 
@@ -1030,10 +1054,422 @@ What Went Wrong / Key Findings
 
 ✅ What Should Be Done?
 
+
 🔹 Prioritize female-targeted inventory – Trendy, high-demand women’s clothing should be increased
+
 
 🔹 Leverage Q4 seasonality – Stock up on electronics ahead of Q4 and plan promotions accordingly
 
+
 🔹 Run gender-targeted campaigns – Tailor marketing content to match the leading demographic (female, mid-40s)
 
+
 🔹 Bundle value deals in May & Q4 – Use historic peak data to trigger seasonal offers that convert
+
+
+### 9. Tata Retail Sales Analysis
+
+Tata Retail Sales Analysis 
+
+When the data speaks, we listen. And this time, it had a lot to say.
+
+Tata didn’t ask for insights.
+But the data wouldn’t stay quiet — so I stepped in to make sense of it.
+
+What began as a simple sales report turned into a deep dive into product movement, customer activity, and seasonal demand. 
+
+Here’s what I uncovered using Power BI:
+
+
+⚙ DASHBOARD CREATION PROCESS
+
+🔧 Tools Used:
+
+• Power BI – Visual storytelling and dashboard development
+
+• Power Query Editor – Data cleaning, preparation, and transformation
+
+🔄 Process Overview:
+
+ 1.	Data Cleaning & Transformation
+
+ •	Cleaned inconsistent stock codes and missing values
+
+ •	Extracted date features: Month, Year, Quarter
+
+ •	Created custom columns (e.g., revenue per product, total orders)
+
+
+ 2.	Data Modeling & DAX Measures
+
+ •	Built relationships between transactions, products, and customer tables
+
+ •	Used DAX to compute total revenue, units sold, customer count, and top-performing stock codes
+
+
+ 3.	Dashboard Design & UX
+
+ •	KPI Cards for: Total Revenue, Products Sold, Unique Customers
+
+ •	Time-based visuals: Line & column charts for monthly and yearly revenue
+
+ •	Bar charts for top stock codes and customer activity
+
+ •	Slicers for dynamic filtering by product type, date range, or customer ID
+
+
+
+📊 ANALYSIS & INSIGHTS
+
+💰 Core Metrics Uncovered:
+
+• $9.75M in total revenue
+
+• 5 million products sold
+
+• 4,373 unique customers
+
+🔥 Revenue Peak:
+
+• November 2011 emerged as the highest revenue month and year combo
+
+• Stock Code “DOT” was the best performer, generating over ₦206M in revenue
+
+
+
+🧠 BUSINESS ANALYSIS (McKinsey-Style Framework)
+
+Why Is This Important?
+
+Analyzing Tata’s sales data helps to:
+
+• Understand revenue trends across time
+
+• Identify high-performing products and customer segments
+
+• Optimize inventory planning for peak periods
+
+• Uncover underperforming months that need strategic marketing boosts
+
+
+
+What Was Discovered?
+
+
+🔍 Key Findings:
+
+
+ •	Stock Code “DOT” drove the most revenue: ₦206,245,480+
+
+ •	November 2011 was the revenue peak — indicating seasonal demand or successful campaigns
+
+ •	Most revenue was clustered toward the end of the year, while other months saw slower performance
+
+
+
+✅ What Should Be Done?
+
+
+📦 Pre-Holiday Stock Planning
+
+
+Ensure that November to December is supported with full inventory for high-demand products
+
+
+📢 Targeted Campaigns in Low-Performing Months
+
+
+Use data-driven ads and customer retargeting to boost sales during slower periods (January to September)
+
+
+📨 Customer Re-Engagement
+
+
+Update and reconnect with previous buyers leading into peak seasons for repeat business
+
+
+📈 Product-Level Promotion
+
+
+Double down on high-performing stock codes like “DOT” through bundles, discounts, or featured listings
+
+
+
+### 10. Supply Chain Greenhouse Emission Analysis
+
+
+🌍 Supply Chain Greenhouse Emissions Analysis
+
+
+🚀 An environmental data analysis project focused on Greenhouse Gas (GHG) Emissions across various supply chain activities.
+
+The goal? Go beyond carbon counts — and uncover which industries contribute the most, how margins affect reporting, and where businesses can optimize for sustainability.
+
+
+
+⚙ ANALYSIS & DASHBOARD CREATION PROCESS
+
+🛠 Tools Used:
+
+• Microsoft Excel – Data aggregation and emission calculations
+
+• Power Query Editor – For data cleaning, merging datasets, and restructuring for analysis
+
+🔄 Process Overview:
+
+ 1.	Data Cleaning & Pre-Processing
+
+ •	Removed irrelevant/duplicate entries
+
+ •	Formatted NAICS titles and codes for consistency
+
+ •	Segregated datasets into “with margin” and “without margin” categories
+
+
+ 2.	Calculation of Emission Factors
+
+ •	Applied formulas to compute total emissions with and without margin adjustments
+
+ •	Used lookups to merge industry-specific data (NAICS codes) with emission values
+
+
+ 3.	Visualization & KPI Design
+
+ •	Developed Excel dashboard with clear KPI summaries, margin difference visuals, and top emission contributors
+
+ •	Built pivot tables to segment emissions by NAICS titles and categories
+
+
+
+📊 KEY FINDINGS & INSIGHTS
+
+
+🔑 Key Performance Indicators (KPIs)
+
+
+• Total Emission Factors (without margin): 361.89
+
+• Total Emission Factors (with margin): 390.49
+
+• Margin Difference: 28.62
+
+
+
+🔍 What Did I Discover?
+
+
+📌 Top NAICS Industry by Total Emission Factor
+
+ •	Photofinishing Laboratories recorded the highest total emissions, followed closely by Pet Care Services
+
+
+📌 Highest Emission Contributor (without & with margin)
+
+ •	Solid Waste Landfill led in both categories, contributing 10.898 units, highlighting it as a significant source of supply chain emissions
+
+
+📌 Impact of Margins
+
+ •	Adding margins to the emission calculation increased the total emissions by 28.62 units, demonstrating the importance of buffering in sustainability metrics
+
+
+
+🧠 BUSINESS ANALYSIS 
+
+1. Why Is This Important?
+
+In today’s ESG-conscious world, understanding the environmental impact of a company’s supply chain is essential for:
+
+ •	Ensuring compliance with emission regulations
+
+ •	Making informed decisions for green procurement
+
+ •	Prioritizing high-emission sectors for sustainable transformation
+
+ •	Identifying where margins may be inflating perceived impact
+
+
+
+2. What Was Discovered?
+
+ •	Emission spikes are heavily concentrated in sectors like photofinishing and solid waste management
+
+ •	Even without margins, these industries still top the emissions list, proving the underlying environmental risk is structural, not just accounting-based
+
+ •	Emission factors increase significantly when margin buffers are introduced — reflecting cautious or conservative reporting by some industries
+
+
+
+3. What Should Be Done?
+
+✅ Target High-Impact Industries First
+
+ •	Prioritize sustainability interventions in sectors like waste management, photofinishing, and pet care
+
+
+✅ Review Margin Policies
+
+ •	Conduct audits to determine if margins used in emissions reporting are realistic or inflated, especially in sensitive industries
+
+
+✅ Partner with Cleaner Suppliers
+
+ •	Shift procurement toward lower-emission NAICS categories, aligning with long-term ESG goals
+
+
+✅ Sustainability Reporting Integration
+
+ •	Integrate this type of emissions analysis into quarterly sustainability reports and executive dashboards
+
+
+ 
+ ### 11. Mental Health Analysis
+
+ 
+🧠 Mental Health Analysis 
+
+
+I’m excited to share another impactful project from my ongoing internship journey — this time, I dove deep into a Mental Health Dataset spanning multiple years and regions.
+
+The goal? Go beyond statistics and uncover the true weight of anxiety, depression, drug use, and other disorders on human lives — and what the numbers reveal about global health trends.
+
+
+
+⚙ DASHBOARD & ANALYSIS PROCESS
+
+🛠 Tools Used:
+
+• Microsoft Excel – Data prep, transformation, and KPI setup
+
+• Power Query Editor – For cleaning and reshaping time-series and categorical data
+
+• Power BI – Visualization, slicing by disorder types, years, and regions
+
+
+🔄 Process Workflow:
+
+ 1.	Data Cleaning & Preparation
+
+ •	Removed duplicates and handled null values
+
+ •	Standardized disorder naming and aligned regional entries
+
+ •	Extracted year, disorder type, region, and prevalence metrics
+
+
+ 2.	Data Modeling & KPI Development
+
+ •	Developed time-series trend lines across disorders
+
+ •	Created DAX-based KPIs to aggregate total cases per disorder
+
+ •	Segmented visual breakdown by disorder, year, and region
+
+
+ 3.	Dashboard Design
+
+ •	KPI summary cards for total cases by disorder
+
+ •	Year-on-year trend lines for depression, drug use, bipolar, and eating disorders
+
+ •	Highlight visuals for peak years and top suffering regions
+
+
+
+📊 KEY METRICS & INSIGHTS
+
+
+🔑 Core KPIs:
+
+• Total Alcohol Use: 1,641.87
+
+• Total Depression Cases: 3,421.94
+
+• Total Drug Use: 898.51
+
+• Total Anxiety Cases: 4,020.33
+
+• Total Eating Disorders: 287.12
+
+
+
+🔍 What Did I Discover?
+
+
+🧩 Top Mental Health Disorder:
+
+• Anxiety leads globally — highest reported condition with 4,020+ cases
+
+
+🕰 Historical Peaks:
+
+• 2009 marked the highest spike in Bipolar Disorder cases
+
+• 2017 saw a massive surge in drug use (33.2% of total cases) and the highest prevalence of eating disorders across all years
+
+
+📌 Sustained Trends:
+
+• From 1999 to 2003, Depression maintained an average rate of ~20% — indicating a consistent burden over time
+
+
+🌍 Top Region by Suffering:
+
+• Australasia had the highest prevalence across multiple mental health issues
+
+
+
+🧠 BUSINESS ANALYSIS (McKinsey-Style Framework)
+
+1. Why Is This Important?
+
+Mental health is no longer a silent crisis — it’s a global business and policy priority.
+
+This analysis reveals:
+
+• Which disorders are most common globally
+
+• When and where spikes happen — guiding healthcare policy
+
+• How substance use correlates with mental health patterns
+
+• The urgency for preventive action and awareness programs
+
+
+
+2. What Went Wrong / Was Discovered?
+
+
+🚩 Critical Observations:
+
+ •	Anxiety disorders dominate — revealing a growing global stress crisis
+
+ •	Substance abuse (drugs & alcohol) continues to fuel comorbid disorders like depression and bipolar
+
+ •	2017 emerged as a year of global mental health crisis — across drug use, eating disorders, and general case spikes
+
+ •	Australasia had one of the highest mental health burdens, indicating regional vulnerability
+
+
+
+3. What Should Be Done?
+
+
+✅ Global Policy Action
+
+ •	Stakeholders (governments, NGOs, mental health organizations) must focus more on anxiety, drug use, and youth-targeted interventions
+
+
+✅ Regional Resource Allocation
+
+ •	Allocate more support to high-burden regions like Australasia, which face disproportionate mental health challenges
+
+
+✅ Early Intervention Campaigns
+
+ •	Use insights from high-risk years (like 2017) to build proactive campaigns around schools, digital detox, and mental wellness
+
+
+✅ Integrated Data Monitoring
+
+ •	Encourage governments and agencies to adopt real-time mental health dashboards for better responsiveness and prevention
